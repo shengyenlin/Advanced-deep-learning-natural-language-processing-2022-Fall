@@ -18,11 +18,11 @@ This is a graduate-level deep learning course that introduces natural language p
 
 ## Homework assignments
 - HW1: Slot tagging
-  - Intent classification: 40/297 on [Kaggle](https://www.kaggle.com/competitions/slot-tagging-ntu-adl-hw1-fall-2022/leaderboard)
-  - Slot tagging: 23/300 on [Kaggle](https://www.kaggle.com/competitions/intent-classification-ntu-adl-hw1-fall-2022/leaderboard)
+  - Intent classification: 40/297 (13.5%) on [Kaggle](https://www.kaggle.com/competitions/slot-tagging-ntu-adl-hw1-fall-2022/leaderboard)
+  - Slot tagging: 23/300 (7.7%) on [Kaggle](https://www.kaggle.com/competitions/intent-classification-ntu-adl-hw1-fall-2022/leaderboard)
   - Implement bi-LSTM and multi-layer perceptron in PyTorch
 - HW2: BERT
-  - Chinese questions answering (QA), 18/276 on [Kaggle](https://www.kaggle.com/competitions/ntu-adl-hw2-fall-2022/leaderboard)
+  - Chinese questions answering (QA), 18/276 (6.5%) on [Kaggle](https://www.kaggle.com/competitions/ntu-adl-hw2-fall-2022/leaderboard)
   - Context selection, span selection
   - Bonus: Train a BERT-based model on HW1 dataset 
   - Use several BERT-based models to complete the task and compare their performance
