@@ -19,6 +19,7 @@ Refer to `report.pdf` for model performance, experiement results, observation an
   - Lower learning rate in embedding layer (since embedding is pretrained) v.s. same learning rate across all network
 
 ---
+
 ### Set up environment
 ```shell
 conda create -f environment.yml

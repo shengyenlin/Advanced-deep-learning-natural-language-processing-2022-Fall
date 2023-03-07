@@ -1,0 +1,14 @@
+python run_swag_no_trainer.py \
+  --model_name_or_path=hfl/chinese-bert-wwm-ext \
+  --train_file=work/train_swag.json \
+  --validation_file=work/valid_swag.json \
+  --max_length=512 \
+  --per_device_train_batch_size=2 \
+  --gradient_accumulation_steps=8 \
+  --weight_decay=0.01 \
+  --learning_rate=1e-5 \
+  --lr_scheduler_type=cosine \
+  --num_train_epochs=3 \
+  --checkpointing_steps=128 \
+  --seed=42 \
+  --output_dir=work/swag1
