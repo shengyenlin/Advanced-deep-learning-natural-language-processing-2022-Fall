@@ -1,6 +1,9 @@
 # Advanced deep learning, 2022 Fall
 This is a graduate-level deep learning course that introduces natural language processing content from the basics to cutting-edge techniques. This repository contains my solutions to the homework assignments as well as the final project.
 
+Course website: https://www.csie.ntu.edu.tw/~miulab/s108-adl/
+Professor: [Yun-Nung Vivian Chen](https://www.csie.ntu.edu.tw/~yvchen/)
+
 ## Course contents
 - NN Basics, Backpropagation
 - Word representation
